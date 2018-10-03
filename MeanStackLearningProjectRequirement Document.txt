@@ -1,0 +1,11 @@
+This is documentation of MEAN Stack learning project.
+It would be a blogs website with user authentication.
+
+User could explore the website only after login and signup.
+
+Each blog would belong to a particular user.
+Each blog would have likes comments.
+
+User would have the option to make their blogs private public.
+
+Later on in future we will also provide groups feature.
